@@ -1,0 +1,466 @@
+10
+
+dir
+37893
+svn://svn.openwrt.org/openwrt/branches/packages_8.09/libs
+svn://svn.openwrt.org/openwrt
+
+
+
+2009-10-04T13:39:10.579554Z
+17852
+nico
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+clinkc
+dir
+
+dbus-glib
+dir
+
+libsynce
+dir
+
+libevent
+dir
+
+libxml2
+dir
+
+check
+dir
+
+libffi-sable
+dir
+
+file
+dir
+
+libdnet
+dir
+
+opencdk
+dir
+
+libtorrent
+dir
+
+gettext
+dir
+
+pcre
+dir
+
+gd
+dir
+
+axtls
+dir
+
+giflib
+dir
+
+st2205tool
+dir
+
+libupnp
+dir
+
+clearsilver
+dir
+
+libart
+dir
+
+libshout
+dir
+
+libgpg-error
+dir
+
+libconfig
+dir
+
+apr-util
+dir
+
+glib2
+dir
+
+nmeap
+dir
+
+libdvbpsi4
+dir
+
+libogg
+dir
+
+libgssapi
+dir
+
+keynote
+dir
+
+libnet-1.0.x
+dir
+
+libjson-c
+dir
+
+libusb
+dir
+
+libvorbisidec
+dir
+
+librpcsecgss
+dir
+
+gsl
+dir
+
+gsm
+dir
+
+ustl
+dir
+
+rrdtool-1.0.x
+dir
+
+libelf
+dir
+
+zaptel
+dir
+
+pthsem
+dir
+
+libidn
+dir
+
+openh323
+dir
+
+libnetfilter-log
+dir
+
+confuse
+dir
+
+flac
+dir
+
+zaptel-1.4.x
+dir
+
+libiconv
+dir
+
+libtheora
+dir
+
+libpfm
+dir
+
+libnotimpl
+dir
+
+libgphoto2
+dir
+
+libpng
+dir
+
+argp-standalone
+dir
+
+apr
+dir
+
+libexif
+dir
+
+libsamplerate
+dir
+
+speex
+dir
+
+libnids
+dir
+
+jpeg
+dir
+
+librsync
+dir
+
+neon
+dir
+
+libnetfilter-conntrack
+dir
+
+postgresql
+dir
+
+lzo
+dir
+
+cyrus-sasl
+dir
+
+id3lib
+dir
+
+bluez-libs
+dir
+
+tcp_wrappers
+dir
+
+liboil
+dir
+
+libnet-1.1.x
+dir
+
+gmp
+dir
+
+sqlite2
+dir
+
+sqlite3
+dir
+
+matrixssl
+dir
+
+libnfsidmap
+dir
+
+tiff
+dir
+
+libcroco
+dir
+
+taglib
+dir
+
+openldap
+dir
+
+wnck
+dir
+
+libid3tag
+dir
+
+libsigc++
+dir
+
+libdlna
+dir
+
+ptlib
+dir
+
+libpthread-stubs
+dir
+
+expat
+dir
+
+libIDL2
+dir
+
+xyssl
+dir
+
+alsa-lib
+dir
+
+libatomicops
+dir
+
+libptmalloc3
+dir
+
+db
+dir
+
+uclibc++
+dir
+
+iksemel
+dir
+
+libyaml
+dir
+
+wxbase
+dir
+
+cgilib
+dir
+
+libvorbis
+dir
+
+libol
+dir
+
+libpam
+dir
+
+curl
+dir
+
+libmcrypt
+dir
+
+howl
+dir
+
+libsndfile
+dir
+
+gnutls
+dir
+
+pwlib
+dir
+
+faad2
+dir
+
+glib
+dir
+
+libnfnetlink
+dir
+
+argtable
+dir
+
+libxslt
+dir
+
+libmpcdec
+dir
+
+libdbi
+dir
+
+libaudiofile
+dir
+
+libffi
+dir
+
+opal
+dir
+
+libcli
+dir
+
+cyassl
+dir
+
+ossp-js
+dir
+
+libinklevel
+dir
+
+net-snmp
+dir
+
+mysql
+dir
+
+libnetfilter-queue
+dir
+
+libxapian
+dir
+
+libmpd
+dir
+
+fcgi
+dir
+
+libtwin
+dir
+
+gdbm
+dir
+
+libtasn1
+dir
+
+popt
+dir
+
+freetype
+dir
+
+libosip2
+dir
+
+libao
+dir
+
+libamsel
+dir
+
+avahi
+dir
+
+radiusclient-ng
+dir
+
+libmad
+dir
+
+fftw3
+dir
+
+libdaemon
+dir
+
+ezxml
+dir
+
+libaio
+dir
+
+libgcrypt
+dir
+
+serdisplib
+dir
+
+libspe2
+dir
+

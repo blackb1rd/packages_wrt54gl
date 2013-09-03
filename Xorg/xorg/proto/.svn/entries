@@ -1,0 +1,192 @@
+10
+
+dir
+37893
+svn://svn.openwrt.org/openwrt/branches/packages_8.09/Xorg/xorg/proto
+svn://svn.openwrt.org/openwrt
+
+
+
+2008-12-09T23:24:25.116320Z
+13571
+mirko
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3c298f89-4303-0410-b956-a3cf2f4a3e73
+
+printproto
+dir
+
+kbproto
+dir
+
+bigreqsproto
+dir
+
+inputproto
+dir
+
+glproto
+dir
+
+xineramaproto
+dir
+
+applewmproto
+dir
+
+randrproto
+dir
+
+scrnsaverproto
+dir
+
+xf86dgaproto
+dir
+
+renderproto
+dir
+
+evieext
+dir
+
+xcmiscproto
+dir
+
+xextproto
+dir
+
+xf86driproto
+dir
+
+packages
+file
+
+
+
+
+2013-09-03T19:04:39.557964Z
+3647076fa1ac382ab196f90a1b6a9024
+2008-12-09T23:24:25.116320Z
+13571
+mirko
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+591
+
+xf86rushproto
+dir
+
+template.mk
+file
+
+
+
+
+2013-09-03T19:04:39.561964Z
+5df1cd219faa88a8b766cfad9324a243
+2008-12-09T23:24:25.116320Z
+13571
+mirko
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+819
+
+windowswmproto
+dir
+
+compositeproto
+dir
+
+xf86vidmodeproto
+dir
+
+xf86bigfontproto
+dir
+
+trapproto
+dir
+
+videoproto
+dir
+
+xf86miscproto
+dir
+
+xproto
+dir
+
+fixesproto
+dir
+
+damageproto
+dir
+
+recordproto
+dir
+
+calibrateproto
+dir
+
+resourceproto
+dir
+
+dmxproto
+dir
+
+fontsproto
+dir
+
+fontcacheproto
+dir
+
